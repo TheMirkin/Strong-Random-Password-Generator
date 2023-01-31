@@ -22,3 +22,6 @@ Verilen değerlere göre benzersiz şekilde şifreleri üretir ve "generated_pas
 
 ### ✨ Result
 <img src="https://raw.githubusercontent.com/TheMirkin/Strong-Random-Password-Generator/main/img/result.png">
+
+
+#işime gelince ingilizce işime gelince türkçe idare edin artık iş görsün yeter :)
